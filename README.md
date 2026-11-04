@@ -50,5 +50,6 @@ Microsoft Excel · Microsoft Power BI (data modelling, DAX, visuals) · Python/p
 <img width="1352" height="772" alt="image" src="https://github.com/user-attachments/assets/7b8c1bab-036d-416a-ac70-1e8bfb1ff411" />
 
 
-## 👤 Author
-**Kriti Shastri**
+## Author
+
+[Kriti Shastri] · [https://github.com/Shastrikriti]
