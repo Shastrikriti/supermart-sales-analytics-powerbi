@@ -34,7 +34,6 @@ KPI cards (Avg Sale, Avg Profit, Avg Quantity/State, Avg Delivery Days, Quantity
 ├── SuperMart_sales_datatset.xlsx     # Source dataset
 ├── Dashboard_SuperMart.pbix          # Power BI dashboard
 ├── SuperMart_Documentation.pdf       # Full documentation (PDF)
-├── SuperMart_Documentation.docx      # Full documentation (Word)
 └── README.md
 ```
 
